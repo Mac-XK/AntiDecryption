@@ -1,0 +1,17 @@
+Package: com.MacXK.AntiDecryption
+Name: AntiDecryption
+Version: 0.1-1
+Description: 阻止iOS应用解密尝试，保护加密数据安全
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: MacXK
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: MacXK
+Icon: 
+
